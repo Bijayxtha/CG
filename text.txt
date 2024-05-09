@@ -1,2 +1,2 @@
 Devops Training GIT
-Git commit from my local
+local merge
